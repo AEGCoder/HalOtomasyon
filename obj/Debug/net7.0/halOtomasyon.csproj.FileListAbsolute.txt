@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/halOtomasyon/bin/Debug/net7.0/halOtomasyon
+/Users/aeg/jobApp/halOtomasyon/bin/Debug/net7.0/halOtomasyon.deps.json
+/Users/aeg/jobApp/halOtomasyon/bin/Debug/net7.0/halOtomasyon.runtimeconfig.json
+/Users/aeg/jobApp/halOtomasyon/bin/Debug/net7.0/halOtomasyon.dll
+/Users/aeg/jobApp/halOtomasyon/bin/Debug/net7.0/halOtomasyon.pdb
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.AssemblyInfo.cs
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.dll
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/refint/halOtomasyon.dll
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.pdb
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/halOtomasyon.genruntimeconfig.cache
+/Users/aeg/jobApp/halOtomasyon/obj/Debug/net7.0/ref/halOtomasyon.dll
